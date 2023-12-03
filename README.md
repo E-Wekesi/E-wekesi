@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React , nodejs or javascript**
 
-- 📄 Know about my experiences [wekesiemmanuel.com](wekesiemmanuel.com)
+- 📄 Know about my experiences wekesiemmanuel.com
 
 - ⚡ Fun fact **when the future becomes the past the present will be unlocked**
 
