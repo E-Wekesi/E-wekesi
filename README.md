@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **React , nodejs or javascript**
 
-- 📄 Know about my experiences wekesiemmanuel.com
-
 - ⚡ Fun fact **when the future becomes the past the present will be unlocked**
 
 <h3 align="left">Connect with me:</h3>
